@@ -1,0 +1,12 @@
+
+
+Login Window size : 1200,700
+
+
+
+ Label Size : 271, 35
+ Text Field Size: 250, 29
+
+
+
+Record Truck and windows Size 900, 600
